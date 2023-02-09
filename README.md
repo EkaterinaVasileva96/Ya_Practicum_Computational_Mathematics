@@ -1,10 +1,10 @@
 # Computational Mathematics
-______________________
 
-## Ya_ML_text
+## Ya_ML_text по теме "Машинное обучние для текстов"
+Обучение модели классифицировать комментарии на позитивные и негативные на основе набора данных с разметкой о токсичности правок.
 
-## Ya_Numerical_methods
+## Ya_Numerical_methods по теме "Численные методы"
 
-## Ya_Protection_of_personal_data
+## Ya_Protection_of_personal_data по теме "Линейная алгерба"
 
-## Ya_Time_series_analysis
+## Ya_Time_series_analysis по теме "Временные ряды"
